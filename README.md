@@ -1,16 +1,47 @@
-## Hi there 👋
+# Michael Villarreal
 
-<!--
-**michaelvillarreal249/michaelvillarreal249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student at California State University, Northridge
 
-Here are some ideas to get you started:
+## About Me
+I am a computer science student interested in software engineering, algorithms, and building practical programming projects. I enjoy learning how core computer science concepts work and implementing them from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+Languages:
+- Java
+- Python
+- C++
+
+Tools:
+- Git
+- IntelliJ IDEA
+- VS Code
+
+Concepts:
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
+- Algorithm Visualization
+
+## Projects
+
+### Java Data Structures Library
+Implemented core data structures from scratch including:
+- Stack
+- Queue
+- Linked List
+- Binary Search Tree
+- Binary Heap
+
+### Sorting Algorithm Visualizer
+Java Swing application that visually demonstrates sorting algorithms using animated bars.
+
+Algorithms implemented:
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+
+## Current Goals
+- Improve algorithm and data structure knowledge
+- Build more interactive programming projects
+- Prepare for software engineering internships
